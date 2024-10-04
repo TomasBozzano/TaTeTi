@@ -1,7 +1,7 @@
 {
   "name": "cardapp",
   "private": true,
-  "homepage": "https://tomasbozzano.github.io/TaTeTi/build",
+  "homepage": "https://tomasbozzano.github.io/TaTeTi/dist",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
